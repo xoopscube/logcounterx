@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 240 100">
+<g id="logcounterx">
+<path class="module-icon" fill="currentColor" d="M21 21H3v-2h18v2zM8 10H4v7h4v-7zm6-4h-4v11h4V6zm6-3h-4v14h4V3z"/>
+<text class="module-name" x="120px" y="50px" fill="currentColor">
+<tspan><![CDATA[Logcounterx]]></tspan>
+</text>
+</g>
+</svg>
