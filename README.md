@@ -11,7 +11,7 @@
 
 MODULE |  Module LogCounterX
 ------------ | -------------
-Description  | LogcounterX features monitoring log, counter and report for XCL 2.3.x
+Description  | LogcounterX features log monitoring, block counter and report site traffic stats.
 Render Engine| Smarty v2 and XCube Layout
 Version      | 2.80
 Update       | Update by Nuno Luciano aka @gigamaster XCL 2.3.x
